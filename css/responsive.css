@@ -1,0 +1,438 @@
+@media only screen and (min-width:320px) {
+    .sec1 {
+        width: 1280px;
+    }
+    .navbar {
+        padding-left: 14%;
+    }
+    .navbar ul li {
+        float: none;
+    }
+    .navbar ul li a {
+        font-size: 29px;
+        margin-right: 75px;
+    }
+    .navbar ul li i {
+        font-size: 27px;
+    }
+    .s1bleft {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .s1bright {
+        float: none;
+        width: 100%;
+    }
+    .s1bleft h1 {
+        font-size: 160px;
+    }
+    .s1bleft h2 {
+        font-size: 55px;
+    }
+    .s1bleft a {
+        font-size: 50px;
+    }
+    .s1bleft p {
+        font-size: 45px;
+        display: inline-block;
+        width: 1100px;
+        line-height: 77px;
+    }
+    .s1bright img {
+        width: 96%;
+        margin-top: 170px;
+        margin-left: 2px;
+    }
+/* sec1 */
+
+    .sec2 {
+        width: 1280px;
+    }
+    .s2upper p {
+        font-size: 40px;
+    }
+    .s2lpart {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .s2lpart img{
+        width: 85%;
+
+    }
+    .s2lpart h2 {
+        font-size: 75px;
+    }
+    .s2lpart p {
+        font-size: 49px;
+    }
+    .s2last a {
+        font-size: 50px;
+    }
+/* sec2 */
+    .sec3 {
+        width: 1280px;
+    }
+    .s3mpart {
+        width: 100%;
+        float: none;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .s3mpart p {
+        font-size: 40px;
+        text-align: center;
+        line-height: 65px;
+    }
+    .s3last a {
+        font-size: 50px;
+    }
+/* sec4 */ 
+    .sec4 {
+    width: 1280px;
+    }
+    .s4pleft {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .s4pleft img {
+        width: 85%;
+        padding-top: 80px;
+    }
+    .s4pright {
+        float: none;
+        width: 100%;
+        text-align: center;
+        height: 715px;
+    }
+    .s4pright h1 {
+        font-size: 75px;
+    }
+    .s4pright p {
+        font-size: 45px;
+        line-height: 65px;
+    }
+    .s4pright a {
+        font-size: 50px;
+    }
+/* sec5 */
+.sec5 {
+    width: 1280px;
+    } 
+    .s5pleft {
+        float: none;
+        width: 100%;
+        display: none;
+    }
+    .s5pright {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .s5pright img {
+        width: 85%;
+
+    }
+/* sec6 */
+    .sec6 {
+        width: 1280px;
+        height: 1240px;
+    }
+    .s6leaf img {
+        display: none;
+    }
+    .s6top p {
+        font-size: 41px;
+        line-height: 60px;
+    }
+/* sec7 */    
+    .sec7 {
+    width: 1280px;
+    }
+    .s7upper {
+        text-align: center;
+    }
+    .s7part {
+        float: none;
+        width: 100%;
+    }
+    .s7part h1 {
+        font-size: 85px;
+    }
+    .s7part p {
+        font-size: 41px;
+    }
+    .s7lower p {
+        font-size: 41px;
+    }
+
+/* sec8 */   
+    .sec8 {
+        width: 1280px;
+    }
+    .s8upper h1 {
+        font-size: 90px;
+    }
+    .leaf8 img {
+        display: none;
+    }
+    .s8upper p {
+        font-size: 40px;
+    }
+
+/* sec9 */ 
+    .sec9 {
+        width: 1280px;
+    }
+    .s9left {
+        float: none;
+        width: 100%;
+    }
+    .se9obj {
+        text-align: center;
+    }
+    .s9lupper h1 {
+        font-size: 70px;
+    }
+    .s9lupper p {
+        font-size: 42px;
+        width: 100%;
+    }
+    .s9llower i {
+        font-size: 40px;
+    }
+    .s9right {
+        float: none;
+        width: 100%;
+    }
+    .s9po {
+        padding-top: 110px;
+    }
+    .s9part h1 {
+        font-size: 42px;
+    }
+    .s9part p {
+        font-size: 30px;
+    }
+}
+
+
+@media only screen and (min-width:480px) {
+      
+}
+
+  
+@media only screen and (min-width:767px) {
+    
+  
+}
+
+
+@media only screen and (min-width:991px) {
+
+}
+   
+
+@media only screen and (min-width: 1250px) {
+/* sec1 */ 
+    .sec1 {
+        width: 100%;
+    }
+    .navbar {
+        padding-left: 630px;
+    }
+    .navbar ul li {
+        float: left;
+    }
+    .navbar ul li a {
+        font-size: 16px;
+        margin-right: 60px;
+    }
+    .navbar ul li i {
+        font-size: 16px;
+    }
+    .s1bleft {
+        float: left;
+        width: 50%;
+    }
+    .s1bright {
+        float: left;
+        width: 50%;
+    }
+    .s1bleft h1 {
+        font-size: 90px;
+        padding-bottom: 30px;
+    }
+    .s1bleft h2 {
+        font-size: 30px;
+        padding-bottom: 60px;
+    }
+    .s1bleft a {
+        font-size: 25px;
+    }
+    .s1bleft p {
+        font-size: 20px;
+        width: 550px;
+        padding-top: 45px;
+        line-height: 28px;
+    }
+/* sec2 */ 
+    .sec2 {
+    width: 100%;
+    }
+    .s2upper p {
+        font-size: 26px;
+    }
+    .s2lpart {
+        float: left;
+        width: 33%;
+    }
+    .s2lpart h2 {
+        font-size: 30px;
+    }
+    .s2lpart p {
+        font-size: 22px;
+    }
+    .s2last a {
+        font-size: 23px;
+    }
+    .s2pi{
+        width: 455px;
+    }
+/* sec3 */ 
+    .sec3 {
+        width: 100%;
+    }
+    .s3mpart {
+        width: 50%;
+        float: left;
+    }
+    .s3mpart p {
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .s3last a {
+        font-size: 23px;
+    }
+/* sec4 */
+    .sec4 {
+        width: 100%;
+    }
+    .s4pleft {
+        float: left;
+        width: 50%;
+    }
+    .s4pright {
+        float: left;
+        width: 50%;
+        text-align: left;
+        height: 700px;
+    }
+    .s4pright h1 {
+        font-size: 60px;
+    }
+    .s4pright p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .s4pright a {
+        font-size: 23px;
+    }
+/* sec5 */
+    .sec5 {
+        width: 100%;
+    }
+    .s5pleft {
+        float: left;
+        width: 50%;
+        display: block;
+    }
+    .s5pright {
+        float: left;
+        width: 50%;
+        text-align: left;
+        padding-bottom: 70px;
+    }
+/* sec6 */
+    .sec6 {
+        width: 100%;
+        height: 1140px;
+    }
+    .s6leaf img {
+        display: block;
+        width: 1350px;
+        margin-top: -160px;
+        margin-left: -118px;
+    }
+    .s6top p {
+        font-size: 25px;
+        line-height: 40px;
+    }
+/* sec7 */
+    .sec7 {
+        width: 100%;
+    }
+    .s7upper {
+        text-align: left;
+    }
+    .s7part {
+        float: left;
+        width: 30%;
+    }
+    .s7part h1 {
+        font-size: 55px;
+    }
+    .s7part p {
+        font-size: 18px;
+    }
+    .s7lower p {
+        font-size: 25px;
+    }
+/* sec8 */
+.sec8 {
+    width: 100%;
+    }
+    .leaf8 img {
+        display: block;
+        width: 1380px;
+    }
+    .s8upper h1 {
+        font-size: 75px;
+    }
+    .s8upper p {
+        font-size: 30px;
+    }
+/* sec9 */
+.sec9 {
+    width: 100%;
+    }
+    .s9left {
+        float: left;
+        width: 40%;
+    }
+    .s9lupper h1 {
+        font-size: 31px;
+    }
+    .s9lupper p {
+        font-size: 21px;
+        width: 450px;
+    }
+    .s9llower i {
+        font-size: 25px;
+    }
+    .s9right {
+        float: left;
+        width: 54%;
+    }
+    .s9part h1 {
+        font-size: 31px;
+    }
+    .s9part p {
+        font-size: 21px;
+    }
+    .s9po {
+        padding-top: 0px;
+    }
+}
